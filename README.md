@@ -1,4 +1,3 @@
-# .github
 # Geopolitics Club Zurich
 
 We are a student association in Zurich that publishes analysis on geopolitics and the world economy. This page holds the code and data behind our articles, so that every chart and figure can be checked and reproduced.
